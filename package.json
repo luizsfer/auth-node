@@ -1,0 +1,31 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "Simple JWT authentication in NodeJS",
+  "main": "app.js",
+  "author": {
+    "name": "Luiz Ferreira",
+    "email": "contact@luizferreira.dev",
+    "url": "http://luizferreira.dev"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^4.0.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "eslintrc": "^1.0.6",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.2",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "nodemon app.js",
+    "run": "node app.js"
+  }
+}
