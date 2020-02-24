@@ -12,8 +12,7 @@ Project documentation with Markdown.
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/luizsfer/auth-node?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/luizsfer/auth-node?style=flat-square)
 
-- View the [Auth-Node documentation]
-(https://github.com/luizsfer/auth-node/wiki/Documentation).
+- View the [Auth-Node documentation](https://github.com/luizsfer/auth-node/wiki/Documentation).
 - Project [release notes][release-notes].
 - Visit the [Auth-Node wiki](https://github.com/luizsfer/auth-node/wiki) for community
   resources, code explaining, how to use, and more.
