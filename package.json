@@ -25,7 +25,7 @@
     "nodemon": "^2.0.2"
   },
   "scripts": {
-    "dev": "nodemon app.js",
-    "run": "node app.js"
+    "dev": "nodemon app/app.js",
+    "run": "node app/ßapp.js"
   }
 }

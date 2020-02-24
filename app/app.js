@@ -5,8 +5,8 @@ const passport = require('passport');
 const app = express();
 const routes = require('./api/routes/routes');
 const secureRoute = require('./api/routes/secure-routes');
-require('./config/auth');
-require('./config/db');
+require('../config/auth');
+require('../config/db');
 
 app.use( bodyParser.urlencoded({ extended : false }) );
 app.use('/', routes);
