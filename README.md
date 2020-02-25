@@ -12,6 +12,30 @@ Project documentation with Markdown.
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/luizsfer/auth-node?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/luizsfer/auth-node?style=flat-square)
 
-- View the [Auth-Node documentation](https://github.com/luizsfer/auth-node/wiki/Documentation).
-- Visit the [Auth-Node wiki](https://github.com/luizsfer/auth-node/wiki) for community
-  resources, code explaining, how to use, and more.
+## Goal
+
+TO-DO
+
+## Requirements
+
+TO-DO
+
+## Documentation
+
+ Visite the [Auth-Node documentation](https://github.com/luizsfer/auth-node/wiki/Documentation).
+
+## Get Started
+
+TO-DO
+
+## Author
+
+Created by **Luiz Ferreira**
+
+**Email:** luiz.ferreira@outlook.com
+
+**Page:** http://luizferreira.dev
+
+**Github:** https://github.com/luizsfer/
+
+**LinkedIn:** http://linkedin.com/in/luizsferreira/
