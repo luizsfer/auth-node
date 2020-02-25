@@ -22,7 +22,7 @@ TO-DO
 
 ## Documentation
 
- Visite the [Auth-Node documentation](https://github.com/luizsfer/auth-node/wiki/Documentation).
+ Visite the [Auth-Node documentation](https://github.com/luizsfer/auth-node/wiki).
 
 ## Get Started
 
